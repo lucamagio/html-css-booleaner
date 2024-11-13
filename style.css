@@ -1,0 +1,12 @@
+#logo{
+    width: 200px;;
+    height: 200px;
+    position: relative;
+    left: 200px;
+    top: -50px;
+}
+
+header{
+    background-color: blue;
+    background-image: url(./img/pattern.png);
+}
