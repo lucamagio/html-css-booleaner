@@ -1,0 +1,9 @@
+header{
+    background-color: blue;
+    background-image: url(../img/pattern.png);
+}
+
+main{
+    padding-left: 200px;
+    padding-top: 20px;
+}
