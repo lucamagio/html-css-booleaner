@@ -4,7 +4,6 @@ header{
 }
 
 main{
-    margin-left: 200px;
     padding-top: 20px;
 }
 
@@ -17,8 +16,12 @@ ul{
 
 }
 
-
 thead{
     color: white;
     background-color: blue;
+}
+
+footer{
+    background-color: darkblue;
+    height: 40px;
 }
